@@ -1,0 +1,3 @@
+model_checkpoint_path: "yolov2_val_loss=74.2359.ckpt-2"
+all_model_checkpoint_paths: "yolov2_val_loss=78.5200.ckpt-1"
+all_model_checkpoint_paths: "yolov2_val_loss=74.2359.ckpt-2"
